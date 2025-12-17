@@ -21,7 +21,7 @@ To run this application, you need to have Python installed on your machine. You 
 1. Clone the repository: 
    ```
    git clone https://github.com/les1g/Sudoku-App.git
-   cd sudoku-app
+   cd Sudoku-App
    ```
 
 2. Create a virtual environment (optional but recommended):
